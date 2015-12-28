@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5"
+        ,"module": "commonjs"
+        ,"moduleResolution": "node"
+        ,"preserveConstEnums": true
+    }
+    ,"buildOnSave": false
+    ,"compileOnSave": false
+    ,"exclude": [
+      "build",
+      "node_modules/",
+      ".git"
+    ]
+}
